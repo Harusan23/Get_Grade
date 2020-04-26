@@ -4,7 +4,8 @@
 จัดทำโดย นางสาวณัฐกฤตา ใส่เกื้อ รหัสนิสิต 6130300182  
 
 # วิธีเปิดโปรแกรม  
-- ลง java JDK 11 ตามลิงก์นี้เลยจ้า~ https://www.oracle.com/java/technologies/javase-jdk11-downloads.html  
+- ลง java JDK 11 ตามลิงก์นี้เลยจ้า--> https://www.oracle.com/java/technologies/javase-jdk11-downloads.html  
+- อย่าลืม set path ด้วยนะ ใครทำไม่เป็น ทำตามนี้เลย--> https://www.youtube.com/watch?v=_YmuR4aw9pM
 - เปิดโปรแกรมโดยเข้าไปที่โฟลเดอร์ bin  
 - กด shift + คลิกขวา เพื่อเปิด PowerShell ขึ้นมา
 - พิมพ์ java getGrade_main  
