@@ -1,2 +1,3 @@
 # Get_Grade
-Final project Programming Fundamentals II Get_Grade program
+เป็นโปรแกรมคำนวณเกรด 
+input / output เป็น text file (.txt)
